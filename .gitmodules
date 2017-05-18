@@ -1,0 +1,3 @@
+[submodule "animals"]
+	path = animals
+	url = https://github.com/vincentpretet/animals.git
